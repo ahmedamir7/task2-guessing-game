@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1708380558 source:d:\intern ships\techno hacks c++\task 2\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
